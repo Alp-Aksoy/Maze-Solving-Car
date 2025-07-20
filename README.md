@@ -63,7 +63,7 @@ Detects the wall if the ultrasonic sensor gets closer to the wall by more than 2
 
 Sends a short trigger pulse to activate the ultrasonic sensor for 100us.
 
-#Counter (Counter.vhd)
+# Counter (Counter.vhd)
 
 This is a basic counter that has been utilized throughout the project.
 
