@@ -50,6 +50,7 @@ period <= X"00C3";  --195 clock cycle
         end if;
     end process;
 
+
     pwm <= pwm_sig;
 CLOCK : clkdiv PORT MAP(clkk_100 => clkk_100, clr => '0',clkk_q => clk);  
 end Behavioral;
